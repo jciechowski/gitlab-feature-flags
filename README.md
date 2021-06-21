@@ -1,2 +1,2 @@
-# FeatureFlagsPoC
+# Using feature flags with GitLab
 
